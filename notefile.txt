@@ -1,0 +1,2 @@
+https://developers.google.com/gmail/api/quickstart/js
+https://console.developers.google.com/
